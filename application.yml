@@ -1,6 +1,5 @@
 
 configserver: true
-bus: true
 
 eureka:
   instance:
