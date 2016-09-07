@@ -16,4 +16,4 @@ spring:
 eureka:
   client:
     serviceUrl:
-      defaultZone: https://eureka-server-excludable-memorizer.run.aws-usw02-pr.ice.predix.io/eureka/
+      defaultZone: https://eureka-server-excludable-memorizer.run.aws-usw02-pr.ice.predix.io:443/eureka/
